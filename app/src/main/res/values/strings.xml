@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger Hilt</string>
+    <string name="back_graph_description">If you close this graph the component manager dependency will destroy it dependencies, and back components (workers, services, receivers) will be stopped. Like many app works</string>
+    <string name="back_graph">Destroy component?</string>
+    <string name="nested_component_not_yet">Nested component not yet</string>
+    <string name="nested_component_not_yet_description">Component child of custom components, not available yet, because of i do not know how to make such components</string>
+</resources>
